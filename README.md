@@ -1,0 +1,2 @@
+# Emoji
+Trabajo _Emoji
